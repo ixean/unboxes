@@ -229,39 +229,17 @@ MonoBehaviour:
       nodeValues: []
   graphElementData:
   - type: 2
-    uid: 81887e04-594d-4bfe-aa29-8684ce2e6310
+    uid: 
     jsonData: '{"uid":"81887e04-594d-4bfe-aa29-8684ce2e6310","layout":{"serializedVersion":"2","x":-1420.0,"y":-10.0,"width":508.0,"height":248.0},"containedElements":["3d00b06e-619b-42a6-8249-46f0b150fdd9","b83c8601-8d94-4d96-a7dc-a6c233e0a1e8","f8cdfdb1-a47b-41e3-847a-34e4bd1db169"],"title":"Check
       if LocalPlayer exists (not equal to null)","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: e07e50ab-f616-46fd-8c69-418f21822174
-    jsonData: '{"uid":"e07e50ab-f616-46fd-8c69-418f21822174","layout":{"serializedVersion":"2","x":-220.0,"y":-70.0,"width":250.0,"height":62.0},"title":"''Block''
-      runs the flows in order from top to bottom","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: 7f157095-bc53-42ca-aba0-b4f5a944d3f6
-    jsonData: '{"uid":"7f157095-bc53-42ca-aba0-b4f5a944d3f6","layout":{"serializedVersion":"2","x":-660.0,"y":260.0,"width":323.0,"height":89.0},"title":"These
-      3 variables are Public so they can be changed in the Inspector","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: 175bb2da-376f-4023-8a2b-ed645c79404a
-    jsonData: '{"uid":"175bb2da-376f-4023-8a2b-ed645c79404a","layout":{"serializedVersion":"2","x":-410.0,"y":560.0,"width":265.5098571777344,"height":149.82093811035157},"title":"This
-      gets the Local Players object so we can modify it. We can get it once and connect
-      it to all three nodes that we want to set.","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: 7c348f5f-9b10-41fd-bcdc-5431b3e5bad4
-    jsonData: '{"uid":"7c348f5f-9b10-41fd-bcdc-5431b3e5bad4","layout":{"serializedVersion":"2","x":-690.0,"y":-70.0,"width":291.0,"height":64.0},"title":"This
-      flow only runs if we have a LocalPlayer to modify","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: db895ea0-8cd2-4d09-bf28-a18231fe5d6b
-    jsonData: '{"uid":"db895ea0-8cd2-4d09-bf28-a18231fe5d6b","layout":{"serializedVersion":"2","x":-1390.0,"y":250.0,"width":421.0,"height":75.0},"title":"If
-      we are playing this scene in the Unity Editor and not the VRChat client, LocalPlayer
-      is null","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
   - type: 5
-    uid: cddf633d-d48d-4bda-954f-1d0dd8f691c2
+    uid: fe007466-d3eb-4f56-9535-9b9adf480703
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":130.0,"width":200.0,"height":150.0}}'
   - type: 4
-    uid: 46d8d053-df09-42aa-b83b-0d8d8bbabc43
+    uid: 027be467-d509-4124-ad6e-3d7f709ed051
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":20.0,"width":0.0,"height":0.0}}'
   viewTransform:
-    position: {x: 821.08167, y: 300.40567}
-    scale: 0.56048167
+    position: {x: 731.0788, y: 199.78247}
+    scale: 1
   version: 1.0.0
   showAssembly: 1
